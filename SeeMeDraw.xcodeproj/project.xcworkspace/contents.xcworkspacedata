@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:See Me Draw.xcodeproj">
+      location = "self:SeeMeDraw.xcodeproj">
    </FileRef>
 </Workspace>

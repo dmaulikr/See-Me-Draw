@@ -1,6 +1,6 @@
 //
-//  See Me DrawTests.m
-//  See Me DrawTests
+//  SeeMeDrawTests.m
+//  SeeMeDrawTests
 //
 //  Created by Ian on 17/02/2014.
 //  Copyright (c) 2014 Ian. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface See Me DrawTests : XCTestCase
+@interface SeeMeDrawTests : XCTestCase
 
 @end
 
-@implementation See Me DrawTests
+@implementation SeeMeDrawTests
 
 - (void)setUp
 {
